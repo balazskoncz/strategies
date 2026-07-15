@@ -1,0 +1,4 @@
+# These owners will be requested for review whenever a PR touches
+# matching files. See: https://docs.github.com/articles/about-codeowners
+
+* @balazskoncz
